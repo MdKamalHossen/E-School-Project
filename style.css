@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    background-color: #F0FFF0;
+}
+.sign-in {
+    background-color: green;
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px;
+    padding: 8px 19px !important;
+    font-size: 19px !important;
+    font-family: sans-serif;
+    padding-left: 0;
+    margin-left: 0;
+}
+.bannerBg{
+    background-color: #F0FFF0;
+}
+.fun{
+    font-family: Impact, sans-serif;
+    font-weight: 800;
+}
+.fun span{
+    color: green;
+}
+#bannerText{
+    padding-top: 7rem;
+}
+.ready{
+    color: red;
+}
+.image-banner img{
+    width: 100%;
+    padding-bottom: 10px;
+}
+.box-2{
+    background-color: #F0FFF0;
+    text-align: center;
+    /* width: 250px; */
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-top: 4rem;
+    /* margin-right: 5px; */
+}
+.box-2:hover{
+    background-color: #e9ecef17;
+    box-shadow: 1px 26px 24px #cfcbcb;
+    cursor: pointer;
+}
+.topics{
+    font-family: Impact, sans-serif;
+    padding-top: 10px;
+}
+.online{
+    font-family: Impact, sans-serif;
+    text-align: center;
+    padding-top: 3rem;
+}
+.seats{
+    padding-left: 9rem;
+}
+a.btn.btn-success.w-50.mb-3.ml-2 {
+    width: 114px !important;
+    margin-left: 14px;
+}
+.test{
+    font-family: Impact, sans-serif;
+}
+.testImg img{
+    width: 300px !important;
+    text-align: center;
+}
+#foot{
+    background-color: black;
+    color: #F0FFF0;
+    padding-top: 20px;
+}
+.footerDesign{
+    list-style: none;
+}
+.footerHeading{
+    font-family: Impact,sans-serif;
+}
+.footerDesign a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #fff;
+}
+.develop{
+    text-align: center !important;
+    padding: 30px;
+    margin: 0!important;
+}
